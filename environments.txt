@@ -1,2 +1,0 @@
-C:\Users\18174\anaconda3
-C:\Users\18174\anaconda3\envs\pandas_playground
